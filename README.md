@@ -1,2 +1,2 @@
 # hello-world
-first timo on github
+first time on github
